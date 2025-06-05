@@ -84,7 +84,7 @@ LinkedInPulse is a personalized LinkedIn post generator that uses LLMs to create
 
 ```bash
 git clone https://github.com/<your-username>/LinkedIn-Pulse.git
-cd linkedinpulse
+cd LinkedIn-Pulse
 ```
 
 2. (Optional) Create and activate a virtual environment:
