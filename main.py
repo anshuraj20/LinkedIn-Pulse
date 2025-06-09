@@ -38,6 +38,6 @@ def main():
         st.write(post)
 
 
-# Run the app
+# Run
 if __name__ == "__main__":
     main()
